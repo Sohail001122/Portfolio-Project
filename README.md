@@ -1,2 +1,2 @@
 # Portfolio-Project
-this is front end project
+this is front end Developer Project
