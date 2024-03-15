@@ -1,2 +1,2 @@
 # Portfolio-Project
-this is front end Project by Sohail
+this is front a Frond-end Project Created by a Sohail
